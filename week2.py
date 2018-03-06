@@ -1,4 +1,3 @@
-#SAURABH
 def sumofsquares(m) :
     I = 1
     while I * I <= m :
