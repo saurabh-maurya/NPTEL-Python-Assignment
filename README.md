@@ -40,6 +40,7 @@ For numbers that occur with the same number of repetitions, arrange the pairs in
 
 
 2.A college maintains academic information about students in three separate lists.
+
     Course details: A list of pairs of form (coursecode,coursename), where both entries are strings.
     For instance, [("MA101","Calculus"),("PH101","Mechanics"),("HU101","English")]
 
